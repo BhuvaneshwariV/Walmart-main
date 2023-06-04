@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Walmart-main/static/css/main.74af8c6f.css",
+    "main.js": "/Walmart-main/static/js/main.77cdd274.js",
+    "static/media/jacket.jpg": "/Walmart-main/static/media/jacket.0322c1acb3dd30352da4.jpg",
+    "static/media/3.jpg": "/Walmart-main/static/media/3.01273529915f56282764.jpg",
+    "static/media/2.jpg": "/Walmart-main/static/media/2.0837bdc1dcc4858441fa.jpg",
+    "static/media/costume.jpg": "/Walmart-main/static/media/costume.70de02bb3460c15cce2a.jpg",
+    "static/media/laptop.png": "/Walmart-main/static/media/laptop.a36e42c713aa12ab95d7.png",
+    "static/media/wallpaper.jpg": "/Walmart-main/static/media/wallpaper.17ff14b6172469d58f9e.jpg",
+    "static/media/logo.png": "/Walmart-main/static/media/logo.a70f8c4a88257a3e6600.png",
+    "index.html": "/Walmart-main/index.html",
+    "main.74af8c6f.css.map": "/Walmart-main/static/css/main.74af8c6f.css.map",
+    "main.77cdd274.js.map": "/Walmart-main/static/js/main.77cdd274.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74af8c6f.css",
+    "static/js/main.77cdd274.js"
+  ]
+}
